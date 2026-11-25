@@ -4,7 +4,7 @@
   "description": "A learning project for BDD with Gherkin, Cucumber, Playwright, and TypeScript",
   "private": true,
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "devDependencies": {
     "@cucumber/cucumber": "^13.3.0",
     "@types/node": "^24.19.4",
