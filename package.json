@@ -1,24 +1,8 @@
 {
-  "name": "cucumber-with",
+  "name": "cucumber-with-ts",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000c\u0000u\u0000c\u0000u\u0000m\u0000b\u0000e\u0000r\u0000-\u0000w\u0000i\u0000t\u0000h\u0000-\u0000j\u0000s\u0000\r\u0000 \u0000",
-  "main": "index.js",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MartinMarkov-QA/cucumber-with-js.git"
-  },
-  "keywords": [],
-  "author": "",
+  "description": "A learning project for BDD with Gherkin, Cucumber, Playwright, and TypeScript",
+  "private": true,
   "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/MartinMarkov-QA/cucumber-with-js/issues"
-  },
-  "homepage": "https://github.com/MartinMarkov-QA/cucumber-with-js#readme",
-  "devDependencies": {
-    "@cucumber/cucumber": "^13.3.0",
-    "@playwright/test": "^1.65.1",
-    "@types/node": "^26.6.6"
-  }
+  "type": "commonjs"
 }
